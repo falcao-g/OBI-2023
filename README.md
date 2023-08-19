@@ -1,7 +1,7 @@
 <h1 align='center'>OBI 2023</h1>
 
 <p align='center'>
-    <img alt="Top language" src="https://img.shields.io/github/languages/top/falcao-g/Alg-prog-2">
+    <img alt="Top language" src="https://img.shields.io/github/languages/top/falcao-g/OBI-2023">
     <img alt="UFMS" src="https://img.shields.io/badge/UFMS--blue.svg">
     <img alt="OBI" src="https://img.shields.io/badge/OBI--yellow.svg">
 </p>
