@@ -20,6 +20,12 @@ Nessa etapa consegui a nota de 400 pontos, resolvendo todos os desafios.
 
 É possível ver os desafios e as minhas soluções [aqui](./fase1/).
 
+## 📚 Fase 2
+
+Nessa etapa consegui a nota de 180 pontos, resolvendo um desafio totalmente e dois parcialmente.
+
+É possível ver os desafios e as minhas soluções [aqui](./fase2/).
+
 ## 🤝 Dicas de estudo
 
 Estudar para a OBI é complicado pois muitas pessoas (incluindo eu quando comecei) nem sabem os assuntos relevantes a prova
