@@ -26,10 +26,20 @@ Nessa etapa consegui a nota de 180 pontos, resolvendo um desafio totalmente e do
 
 É possível ver os desafios e as minhas soluções [aqui](./fase2/).
 
+## 📚 Fase 3
+
+Nessa etapa um total de 164 pontos, resolvendo um desafio totalmente e outros três parcialmente.
+
+É possível ver os desafios e as minhas soluções [aqui](./fase3/).
+
+No final conquistei o 44º lugar na classificação nacional, sendo o 1º lugar do estado de Mato Grosso do Sul e uma honra ao mérito :D
+
+O quadro de medalhas da OBI 2023 nível sênior pode ser acessado [aqui](https://olimpiada.ic.unicamp.br/resultados/qmerito/ps/)
+
 ## 🤝 Dicas de estudo
 
 Estudar para a OBI é complicado pois muitas pessoas (incluindo eu quando comecei) nem sabem os assuntos relevantes a prova
 
-Pensando nisso, crei um [repositório](https://github.com/falcao-g/treinamento-obi) de treinamento para a OBI, lá você encontra artigos, exemplos e exercícios para praticar.
+Pensando nisso, crei um [livro](https://facompetindo.gitbook.io/programacao-competitiva/) de treinamento para a OBI, lá você encontra artigos, exemplos e exercícios para praticar.
 
 Bons estudos!
